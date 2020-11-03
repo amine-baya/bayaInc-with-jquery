@@ -1,0 +1,39 @@
+.navbar .nav .active .nav-link
+{
+    color: yellow;
+}
+.carousel-indicators .active
+{
+    background-color: yellow;
+}
+
+.testimonials ol li.active
+{
+       box-shadow: 1px 1px 10px yellow;
+       border: 1px solid yellow;
+}
+.box-option .color
+{
+    border: 4px solid yellow;
+}
+.box-option .gear
+{
+    background-color: yellow;
+
+}
+.dropdown-item:hover, .dropdown-item:focus
+{
+    background-color: yellow ;
+}
+.dropdown-divider {
+    border-top: 1px solid  yellow;
+}
+.dropdown-menu
+{
+        border-top: 2px solid  yellow;
+}
+.scroll i
+{
+    background-color: yellow;
+    box-shadow: 1px 1px 5px yellow;
+}

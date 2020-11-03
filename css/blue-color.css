@@ -1,0 +1,38 @@
+.navbar .nav .active .nav-link
+{
+    color: rgb(65, 160, 197);
+}
+.carousel-indicators .active
+{
+    background-color: rgb(65, 160, 197);;
+}
+
+.testimonials ol li.active
+{
+       box-shadow: 1px 1px 10px rgb(65, 160, 197);;
+       border: 1px solid rgb(65, 160, 197);
+}
+.box-option .color
+{
+    border: 4px solid  rgb(65, 160, 197);
+}
+.box-option .gear
+{
+    background-color: rgb(65, 160, 197);
+}
+.dropdown-item:hover, .dropdown-item:focus
+{
+    background-color:rgb(65, 160, 197) ;
+}
+.dropdown-divider {
+    border-top: 1px solid rgb(65, 160, 197);
+}
+.dropdown-menu
+{
+        border-top: 2px solid rgb(65, 160, 197);;
+}
+.scroll i
+{
+    background-color: rgb(65, 160, 197);
+    box-shadow: 1px 1px 5px rgb(65, 160, 197);
+}

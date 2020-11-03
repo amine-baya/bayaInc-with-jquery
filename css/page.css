@@ -1,0 +1,221 @@
+/*start about -----------------------------*/
+body
+{
+    overflow: auto;
+}
+.bread
+{
+    margin-top: 55px;
+    background-color: #e9ecef;
+    
+}
+.breadcrumb
+{
+    margin-bottom: 0;
+}
+
+.start
+{
+    margin: 20px;
+}
+.start h1
+{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.start hr
+{
+    width: 70%;
+}
+.start img
+{
+    width: 100%;
+    height: 100%;
+    margin: 50px 0;
+}
+/*end strat -------------------------------*/
+.about-featury .first
+{
+    padding-bottom: 50px;
+}
+.about-featury .first h3
+{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.about-featury .first i
+{
+    margin-bottom: 20px;
+}
+/*end about-features -------------------------------*/
+.about-ceo
+{
+    background-color: #eee;
+    padding-top: 50px;
+}
+
+.about-ceo .one{
+    padding-bottom: 50px;
+    
+}
+
+.about-ceo .one button
+{
+    background-color: black;
+    color: white;
+    border: none;
+    display: block;
+    width: 100%;
+}
+.box-slid section
+{
+    margin-bottom: 10px;
+}
+.box-slid .container h3
+{
+    background-color:  rgb(151, 151, 151);
+    padding: 10px;
+     border-radius: 5px 5px 0 0;
+     color: white;
+     margin: 0;
+     cursor: pointer;
+}
+.box-slid .container h3 i
+{
+    float: right;
+    padding: 5px;
+    transition: all ease .5s;
+}
+.box-slid .container h3 i.i{
+     transform: rotateZ(450DEG) ;
+}
+
+.box-slid .container p
+{
+    background-color: #eee;
+    padding: 10px;
+    display: none;
+    border-radius:0 0 5px 5px;
+}
+
+
+/*end about-ceo -------------------------------*/
+/*end about -------------------------------*/
+/*.faza
+{
+    height: 50px ;
+    width: 50px;
+    background-color: red;
+    animation: an 50s  infinite ;
+     margin: 10px;
+     transform: translate(-100px, 0);
+}
+.faza2
+{
+    height: 50px ;
+    width: 50px;
+    background-color: black;
+    animation: an 50s 3s  infinite ;
+     margin: 10px;
+     
+}
+.faza3
+{
+    height: 50px ;
+    width: 50px;
+    background-color: black;
+    animation: an 50s  4s  infinite ;
+     margin: 10px;
+     
+}
+.faza4
+{
+    height: 50px ;
+    width: 50px;
+    background-color: black;
+    animation: an 50s 5s infinite ;
+     margin: 10px;
+    
+     position: absolute;
+}
+body
+{
+    perspective: 600px;
+
+}
+div.faz
+{
+        animation:on 1s ease-in-out infinite alternate;
+        
+}
+.container
+{
+    width: 1000px ;
+    margin: 0 auto;
+     overflow: hidden;
+     height: 300px;
+}
+@keyframes an {
+    0% {
+        transform: translate(-100px, 0);
+        
+    }
+  
+
+       100%{
+        transform: translate(1100px, 0px);
+    }
+}
+@keyframes on {
+    0% {
+        transform: translateY(0px);
+        
+    }
+  
+
+       100%{
+        transform: translateY(5px);
+        
+    }
+}
+.button{
+    width: 200px;
+    height: 150px;
+    background-color: #a52a2a;
+    position: relative;
+    left: 200px;
+    transition: all .25s ease-in-out;
+     text-align: center;
+     line-height: 150px;
+      z-index: -1;
+      color: white;
+}
+.button::before{
+    content: "";
+    width: 100%;
+    height:100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+    position: absolute;
+    transform-origin: right top;
+    transform: scaleX(0);
+     transition: all .25s ease-in-out;
+    z-index: -1;
+     
+}
+
+.red::before{ 
+    transform: scaleX(1);
+    
+}
+.black::before{
+    content: "";
+    width: 100%;
+    height:100%;
+    top: 0;
+    left: 0;
+    position: absolute;    
+     transform-origin: top left; 
+}
+*/
